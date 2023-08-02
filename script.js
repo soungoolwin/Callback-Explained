@@ -1,6 +1,6 @@
-// let driveCar = (carName) => {
-//   console.log(carName + " is driving");
-// };
+let driveCar = (carName) => {
+  console.log(carName + " is driving");
+};
 
 // driveCar("BMW");
 
